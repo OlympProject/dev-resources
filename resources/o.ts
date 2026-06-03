@@ -43,6 +43,13 @@ export const resources: Resource[] = [
         keywords: ['Flexible work schedule', 'Work-life balance', 'Remote work options'],
     },
     {
+        name: 'OlympAPI',
+        description: 'Freemium Offline API Client - Test and Build your Rest API, no account, no cloud, just pure Software without SaaS bloat. ',
+        categories: ['API Building'],
+        url: 'https://olympstack.com/',
+        keywords: ['api', 'api-client', 'api-testing', 'rest', 'openapi', 'openapi3', 'git-sync', 'openapi-sync'],
+    },
+    {
         name: 'One Page Love',
         description:
             'One Page Love is a One Page website design gallery showcasing the best Single Page websites, templates and resources.',
